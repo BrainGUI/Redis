@@ -1,0 +1,6 @@
+redis:
+  host: redis-14368.c267.us-east-1-4.ec2.cloud.redislabs.com
+  db: 0
+  user: default
+  password: LsxXlEDc65U5CZNOetaj6iM2e18SN0h6
+  port: 14368
